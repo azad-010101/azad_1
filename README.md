@@ -1,3 +1,3 @@
 # azad_1
 my first repository 
-Prop- Sabyasachi Azad
+Author - Sabyasachi Azad
